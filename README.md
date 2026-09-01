@@ -1,4 +1,4 @@
-### mmlado — The Walleteer
+### mmlado — Walleteer
 
 Air-gapped wallets that do not phone home. I work at the smartcard / secure-element
 layer: JavaCard applets, APDU, GlobalPlatform, and the host tooling around them.
@@ -22,7 +22,10 @@ layer: JavaCard applets, APDU, GlobalPlatform, and the host tooling around them.
 **Stack:** TypeScript, Python, Nim, Rust, JavaCard, C++. Smartcard / PCSC / APDU,
 hardware wallets, Nostr signing (NIP-46 / NIP-44 / BIP-340).
 
-**Talks:** EthBelgrade 2023-2025, Serbian Academy of Sciences 2022.
+**Talks:** [Cypherpunks, technoanarchists & post-state futures](https://www.youtube.com/watch?v=waByT_FUTQo)
+(EthBelgrade 2025) · [Smart Contract Development with Vyper](https://youtu.be/BPAcZ5rnECI)
+(EthBelgrade 2023) · [Tehnički aspekti blokčejna](https://youtu.be/hyF_n4d7gu4) (SANU 2022) ·
+[Dev Tooling track](https://2024.ethbelgrade.rs) (EthBelgrade 2024)
 
 **Elsewhere:** [mmlado.github.io](https://mmlado.github.io) ·
 [LinkedIn](https://www.linkedin.com/in/mladenmilankovic) · digital self-defense on YouTube
