@@ -11,13 +11,13 @@ layer: JavaCard applets, APDU, GlobalPlatform, and the host tooling around them.
 - **Status Keycard applet** - contributed two instructions to the JavaCard applet:
   GET CHALLENGE (in production) and an ECDH key-agreement instruction
   ([#127](https://github.com/keycard-tech/status-keycard/pull/127), merged, shipping in v4).
-- **Host SDKs** - [keycard-py](https://github.com/mmlado/keycard-py) (Python),
-  [keycard-nim](https://github.com/mmlado/keycard-nim) (Nim), pcsc-nim, and merged PRs
-  to the TypeScript keycard-sdk.
 - **Logos spel** - won and delivered two RFP libraries in Rust,
   [admin-authority](https://github.com/mmlado/spel-admin-authority) and
   [freeze-authority](https://github.com/mmlado/spel-freeze-authority) (all milestones
   approved), and contribute upstream to the [spel](https://github.com/logos-co/spel) framework.
+- **Host SDKs** - [keycard-py](https://github.com/mmlado/keycard-py) (Python),
+  [keycard-nim](https://github.com/mmlado/keycard-nim) (Nim), pcsc-nim, and merged PRs
+  to the TypeScript keycard-sdk.
 
 **Stack:** TypeScript, Python, Nim, Rust, JavaCard, C++. Smartcard / PCSC / APDU,
 hardware wallets, Nostr signing (NIP-46 / NIP-44 / BIP-340).
