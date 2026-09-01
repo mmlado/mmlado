@@ -1,4 +1,4 @@
-### mmlado — walleteer
+### mmlado - walleteer
 
 Air-gapped wallets that do not phone home. I work at the smartcard / secure-element
 layer: JavaCard applets, APDU, GlobalPlatform, and the host tooling around them.
