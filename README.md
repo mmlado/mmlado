@@ -14,7 +14,7 @@ layer: JavaCard applets, APDU, GlobalPlatform, and the host tooling around them.
 - **Logos spel** - won and delivered two RFP libraries in Rust,
   [admin-authority](https://github.com/mmlado/spel-admin-authority) and
   [freeze-authority](https://github.com/mmlado/spel-freeze-authority) (all milestones
-  approved), and contribute upstream to the [spel](https://github.com/logos-co/spel) framework.
+  approved), and built the [SPEL extension mechanism](https://github.com/logos-co/spel/pull/257), now merged upstream into the framework.
 - **Host SDKs** - [keycard-py](https://github.com/mmlado/keycard-py) (Python),
   [keycard-nim](https://github.com/mmlado/keycard-nim) (Nim), pcsc-nim, and merged PRs
   to the TypeScript keycard-sdk.
