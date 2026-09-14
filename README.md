@@ -9,8 +9,8 @@ layer: JavaCard applets, APDU, GlobalPlatform, and the host tooling around them.
   Status Keycard, Android and iOS (TypeScript / React Native). Won two Logos Lambda
   Prizes: a NIP-46 Nostr signer and a Shell dApp PoC.
 - **Status Keycard applet** - contributed two instructions to the JavaCard applet:
-  GET CHALLENGE (in production) and an ECDH key-agreement instruction
-  ([#127](https://github.com/keycard-tech/status-keycard/pull/127), merged, shipping in v4).
+  GET CHALLENGE and an ECDH key-agreement instruction, both released in [applet 4.0](https://github.com/keycard-tech/status-keycard/releases/tag/4.0)
+  ([#127](https://github.com/keycard-tech/status-keycard/pull/127)).
 - **Logos spel** - won and delivered two RFP libraries in Rust,
   [admin-authority](https://github.com/mmlado/spel-admin-authority) and
   [freeze-authority](https://github.com/mmlado/spel-freeze-authority) (all milestones
